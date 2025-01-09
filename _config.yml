@@ -11,7 +11,7 @@
 
 # Name of website
 title: Milagros Paola
-
+ 
 # Your name to show in the footer
 author: Milagros Paola Vasquez Vasquez
 
@@ -54,10 +54,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  whatsapp: 917292756
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
