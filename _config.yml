@@ -49,8 +49,8 @@ round-avatar: true
 social-network-links:
   email: "m.paolavasquezv@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
-  github: 
+ # facebook: 
+  #github: 
   whatsapp: 917292756
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
